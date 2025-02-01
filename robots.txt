@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://kawakawi.github.io/QKgiP
+Sitemap: https://kawakawi.github.io/TUnfR
+Sitemap: https://kawakawi.github.io/XnFrj
+Sitemap: https://kawakawi.github.io/ixdKj
+Sitemap: https://kawakawi.github.io/kMnCJ
+Sitemap: https://kawakawi.github.io/mZKoA
+Sitemap: https://kawakawi.github.io/tOCpH
+Sitemap: https://kawakawi.github.io/wrNyc
